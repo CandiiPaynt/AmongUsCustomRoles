@@ -1,5 +1,5 @@
 # Among Us Custom Roles
-Adds 4 new custom roles to the popular game "Among Us".
+Adds 3 new custom roles to the popular game "Among Us".
 These roles include "The Torch", "The Mayor", and "The Sweeper".
 
 <h2>Credits</h2>
